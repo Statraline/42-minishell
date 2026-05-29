@@ -1,5 +1,7 @@
 *This project has been created as part of the 42 curriculum by srichard, remusung.*
-
+![Langage](https://img.shields.io/badge/Language-C-blue)
+![Système](https://img.shields.io/badge/System-UNIX-black)
+![Statut](https://img.shields.io/badge/Status-Finished-success)
 # Minishell
 
 ## Description
